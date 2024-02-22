@@ -3131,9 +3131,6 @@ blockquote cite:before {
 .full-width-header .mobile-menu .mobile-logo {
   float: left;
 }
-.full-width-header .mobile-menu .mobile-logo img {
-  max-height: 30px;
-}
 .full-width-header .mobile-menu .rs-menu-toggle {
   color: #ffffff;
   float: right;
